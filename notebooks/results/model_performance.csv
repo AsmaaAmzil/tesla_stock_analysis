@@ -1,0 +1,4 @@
+,Linear Regression,Ridge Regression,Decision Tree,Random Forest
+R² Score,0.9998,0.9997,0.9997,0.9997
+RMSE,1.7528,2.1435,2.11,1.9694
+MAE,1.2405,1.5011,0.8298,0.9959
